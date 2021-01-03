@@ -1,8 +1,8 @@
 /**
  *   Function Description：      BigNumberFourArithmeticOperations
- *   Environment：                Code::Blocks 17.12
- *   Author:                          Malones
- *   Date:                             2020.12.13
+ *   Environment：               Code::Blocks 17.12
+ *   Author:                     Malones
+ *   Date:                       2020.12.13
  */
 #include<bits/stdc++.h>
 using namespace std;
